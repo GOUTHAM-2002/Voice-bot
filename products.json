@@ -1,0 +1,82 @@
+[
+    {
+        "name": "iPhone 15",
+        "description": "Latest Apple iPhone with A15 chip. Offers excellent performance and camera quality.",
+        "price": "₹79,999",
+        "features": [
+            "5G Support",
+            "Triple Camera System (12MP Ultra Wide, 12MP Wide, 12MP Telephoto)",
+            "Super Retina XDR Display",
+            "Ceramic Shield Front Cover",
+            "MagSafe and Wireless Charging",
+            "A15 Bionic Chip"
+        ],
+        "battery": "Up to 20 hours of talk time",
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "colors": ["Black", "White", "Red", "Green"]
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "description": "High-performance smartphone with a powerful camera system and sleek design.",
+        "price": "₹69,999",
+        "features": [
+            "108MP Wide Camera, 12MP Ultra Wide, 10MP Telephoto",
+            "Fast Charging and Wireless Charging",
+            "Dynamic AMOLED 2X Display (6.1 inches)",
+            "IP68 Water and Dust Resistance",
+            "Snapdragon 8 Gen 1 Processor",
+            "One UI 4.1 based on Android 12"
+        ],
+        "battery": "3700mAh with all-day battery life",
+        "storage_options": ["128GB", "256GB"],
+        "colors": ["Phantom Black", "Phantom White", "Pink Gold", "Green"]
+    },
+    {
+        "name": "Google Pixel 7",
+        "description": "The best of Google with amazing camera capabilities and AI features.",
+        "price": "₹59,999",
+        "features": [
+            "50MP Wide Camera, 12MP Ultra Wide",
+            "Magic Eraser and Photo Unblur features",
+            "6.3-inch FHD+ AMOLED Display",
+            "Titan M2 Security Chip",
+            "Google Assistant integration",
+            "Android 13 with 5 years of security updates"
+        ],
+        "battery": "4355mAh with fast charging",
+        "storage_options": ["128GB", "256GB"],
+        "colors": ["Obsidian", "Snow", "Lemongrass"]
+    },
+    {
+        "name": "OnePlus 10 Pro",
+        "description": "Flagship device with fast charging and top-tier performance.",
+        "price": "₹66,999",
+        "features": [
+            "48MP Wide, 50MP Ultra Wide, 8MP Telephoto Cameras",
+            "Fluid AMOLED Display (6.7 inches)",
+            "Snapdragon 8 Gen 1 Processor",
+            "120Hz Refresh Rate",
+            "50W Wireless Charging and 80W Wired Charging",
+            "OxygenOS based on Android 12"
+        ],
+        "battery": "5000mAh with Warp Charge",
+        "storage_options": ["128GB", "256GB"],
+        "colors": ["Volcanic Black", "Emerald Forest"]
+    },
+    {
+        "name": "Xiaomi 12 Pro",
+        "description": "Premium smartphone with high-end specifications and fast charging.",
+        "price": "₹62,999",
+        "features": [
+            "50MP Triple Camera Setup",
+            "6.73-inch AMOLED Display",
+            "Snapdragon 8 Gen 1 Processor",
+            "120Hz Refresh Rate",
+            "120W Fast Charging",
+            "MIUI 13 based on Android 12"
+        ],
+        "battery": "4600mAh with ultra-fast charging",
+        "storage_options": ["256GB"],
+        "colors": ["Night Black", "Misty Purple", "Snow Blue"]
+    }
+]
